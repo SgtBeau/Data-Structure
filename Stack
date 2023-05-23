@@ -1,1 +1,4 @@
-
+typedef struct{
+    Elemtype data[Maxsize];
+    int top;
+} SqStack;
